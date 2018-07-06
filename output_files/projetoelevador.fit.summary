@@ -1,0 +1,11 @@
+I/O Assignment Analysis Status : Successful - Sat Jun 23 00:18:09 2018
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : projetoelevador
+Top-level Entity Name : projetoelevador
+Family : Cyclone V
+Device : 5CGXFC5C6F27C7
+Timing Models : Final
+Total pins : 20 / 364 ( 5 % )
+Total virtual pins : 0
+Total PLLs : 0 / 12 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )
